@@ -5,6 +5,3 @@ This project focuses on detection of different species of birds, flowers and mam
 
 ## Link to Dataset
 [Dataset](https://drive.google.com/drive/folders/1sMsSjhTHwagvqweq7-hv1zvBd2VSSdlP)
-
-## Link to Video Demonstration
-[Video Demonstration](https://drive.google.com/file/d/1SDXfsPXu7cM2MJeYEQ8apyESQ-AV4_-c/view?usp=sharing)
